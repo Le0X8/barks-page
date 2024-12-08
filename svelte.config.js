@@ -20,7 +20,8 @@ const config = {
 		adapter: adapter(),
 
 		alias: {
-			$pages: 'src/pages'
+			$pages: 'src/pages',
+			$c: 'src/components',
 		}
 	},
 
